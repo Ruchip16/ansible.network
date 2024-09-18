@@ -116,7 +116,7 @@ Please read and familiarize yourself with this document.
 
 ## Release notes
 <!--Add a link to a changelog.md file or an external docsite to cover this information. -->
-[CHANGELOG.rst](CHANGELOG.rst)
+elease notes are available [here](https://github.com/ansible-collections/ansible.network/blob/main/CHANGELOG.rst).
 
 ## Support
 
